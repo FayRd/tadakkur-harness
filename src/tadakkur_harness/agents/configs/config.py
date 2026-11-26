@@ -1,0 +1,1 @@
+OLLAMA_MODEL = "ollama:qwen3.5:2b"
